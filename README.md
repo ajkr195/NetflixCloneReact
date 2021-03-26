@@ -1,6 +1,6 @@
 <h4> Screenshot </h4>
 
-![SpringCMS](https://github.com/ajkr195/NetflixCloneReact/blob/main/netflixclone.png)
+![SpringCMS](https://github.com/ajkr195/NetflixCloneReact/blob/main/netflixclone2.png)
 
 ## Available Scripts
 
